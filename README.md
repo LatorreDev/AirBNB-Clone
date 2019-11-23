@@ -1,5 +1,5 @@
 # The Holberton B&amp;B                                                                                               
-![alt text](https://github.com/miguel-dev/AirBnB_clone/blob/master/Assets/hbnb.png?raw=true "hbnb image")             
+![alt text](https://github.com/LatorreDev/AirBnB-Clone/blob/master/Assets/hbnb.png?raw=true "hbnb image")             
 # Description
 This is a clone of airbnb on the frontend, backend and netowrk infrastructure
 ## Backend
