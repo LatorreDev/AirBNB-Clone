@@ -1,0 +1,43 @@
+.wrap
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* .places
+{
+    display: inline-block;
+    justify-content: center;
+    
+}
+*/
+
+.places h1
+{
+    font-size: 30px;
+    text-align: left;
+    
+}
+
+article
+{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F solid 1px;
+    border-radius: 4px;
+    
+}
+
+article h2
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.center
+{
+    margin-left: 25%;
+    margin-right: 25%;
+}
