@@ -1,0 +1,63 @@
+.filters
+{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: white;
+    height: 70px;
+    width: inherit;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    padding-right: 30px;
+
+}
+
+button
+{
+    font-size: 18px;
+    background-color: #ff5a5f;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border: 0;
+    float: right;
+    border-radius: 4px;
+}
+
+button:hover
+{
+    opacity: 0.9;
+}
+
+.locations
+{
+    height: inherit;
+    width: 25%;
+    border-right: #DDDDDD solid 1px;
+    padding-left: 40px;
+}
+
+.amenities
+{
+    height: inherit;
+    width: 25%;
+    padding-left: 40px; 
+
+}
+
+.filters h3
+{
+    font-weight: 600;
+    font-size: 14px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.filters h4
+{
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+    margin-top: 0px;
+    
+}
